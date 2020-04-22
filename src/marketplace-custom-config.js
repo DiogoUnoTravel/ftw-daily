@@ -12,8 +12,8 @@ export const amenities = [
     label: 'Bathroom',
   },
   {
-    key: 'swimming_pool',
-    label: 'Swimming pool',
+    key: 'piscina',
+    label: 'piscina',
   },
   {
     key: 'own_drinks',
